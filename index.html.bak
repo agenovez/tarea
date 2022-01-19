@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>NOCTELECOM</title>
+    <meta name="author" content="Andres Genovez">
+    <link rel="stylesheet" href="estilo.css">
+  </head>
+  <!---<body style="        background-color: black;">--->
+    <p> <img src="logo.png" alt="Logo" title="Logo" style="width: 155px; height: 155px;">&nbsp;</p>
+    <ul style="background-color: white;">
+      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+
+            href="index.html">Inicio</a></span></li>
+      <span style="color: white;"> </span>
+      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+
+            href="qsomos.html">Quienes Somos?</a></span></li>
+      <span style="color: white;"> </span>
+      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+
+            href="mision.html">Mision</a></span></li>
+      <span style="color: white;"> </span>
+      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+
+            href="vision.html">Vision</a></span></li>
+      <span style="color: white;"> </span>
+      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+
+            href="contacto.html">Contacto</a></span></li>
+      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+
+            href="recursos.html">Recursos</a></span></li>
+    </ul>
+    <hr style="color: white; margin-top: 2px;"> <img src="banner.png" alt="banner"
+
+      title="banner" style="width: 1072px; height: 127px;">
+    <table>
+      <tbody>
+        <tr>
+          <td><br>
+          </td>
+          <td><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <p></p>
+    <hr style="color: white;">
+    <p><span style="color: white;">Copyright Noctelecom&nbsp; 2021</span></p>
+    <br>
+    <ul>
+    </ul>
+    <p></p>
+  </body>
+</html>

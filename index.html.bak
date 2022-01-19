@@ -6,9 +6,8 @@
     <meta name="author" content="Andres Genovez">
     <link rel="stylesheet" href="estilo.css">
   </head>
-  <!---<body style="        background-color: black;">--->
     <p> <img src="logo.png" alt="Logo" title="Logo" style="width: 155px; height: 155px;">&nbsp;</p>
-    <ul style="background-color: white;">
+    <ul class=menu>
       <li style="display: inline; background-color: white;"><span style="color: white;"><a
 
             href="index.html">Inicio</a></span></li>

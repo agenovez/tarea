@@ -7,27 +7,27 @@
     <link rel="stylesheet" href="estilo.css">
   </head>
     <p> <img src="logo.png" alt="Logo" title="Logo" style="width: 155px; height: 155px;">&nbsp;</p>
-    <ul class=menu>
-      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+    <ul class=menu id="lista1">
+      <li ><span style="color: white;"><a
 
             href="index.html">Inicio</a></span></li>
       <span style="color: white;"> </span>
-      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+      <li ><span style="color: white;"><a
 
             href="qsomos.html">Quienes Somos?</a></span></li>
       <span style="color: white;"> </span>
-      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+      <li ><span style="color: white;"><a
 
             href="mision.html">Mision</a></span></li>
       <span style="color: white;"> </span>
-      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+      <li ><span style="color: white;"><a
 
             href="vision.html">Vision</a></span></li>
       <span style="color: white;"> </span>
-      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+      <li ><span style="color: white;"><a
 
             href="contacto.html">Contacto</a></span></li>
-      <li style="display: inline; background-color: white;"><span style="color: white;"><a
+      <li ><span style="color: white;"><a
 
             href="recursos.html">Recursos</a></span></li>
     </ul>

@@ -7,9 +7,15 @@ h1 {
   margin-left: 20px;
 }
 
+
+h2 {
+  color: red;
+}
+
+
 ul.menu{
 	
-	background-color: white;
+	background-color: black;
 	
 	
 }
@@ -35,4 +41,17 @@ a {
 a:hover {
     color:black;
     background-color:lightgray;
+}
+
+.banner{
+	
+	width: 720px; 
+	height: 127px;
+
+	
+}
+
+.qsomos{
+	width: 295px; 
+	height: 220px;
 }

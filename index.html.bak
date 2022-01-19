@@ -31,9 +31,9 @@
 
             href="recursos.html">Recursos</a></span></li>
     </ul>
-    <hr style="color: white; margin-top: 2px;"> <img src="banner.png" alt="banner"
+    <hr style="color: white; margin-top: 2px;"> <img class="banner" src="banner.png" alt="banner"
 
-      title="banner" style="width: 1072px; height: 127px;">
+      title="banner">
     <table>
       <tbody>
         <tr>

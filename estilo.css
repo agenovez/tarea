@@ -2,6 +2,14 @@ body {
   background-color: black;
 }
 
+p {
+  
+  color: white;
+  font-family:Arial;
+  font-weight:bold;
+  text-indent: 13px;
+}
+
 h1 {
   color: navy;
   margin-left: 20px;
@@ -9,9 +17,18 @@ h1 {
 
 
 h2 {
+  font-family:Arial;
   color: red;
 }
 
+table, th, td {
+  color: white;
+  text-align: center;
+  font-family:Arial;
+  font-weight:bold;
+  text-indent: 13px;
+  border: 1px white;
+}
 
 ul.menu{
 	
@@ -21,6 +38,19 @@ ul.menu{
 }
 
 #lista1 {
+	list-style-type: square;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:13px;
+}
+#lista2 {
+	list-style-type: square;
+    font-family:Arial;
+    font-weight:bold;
+    font-size:13px;
+}
+#lista3 {
+	list-style-type: square;
     font-family:Arial;
     font-weight:bold;
     font-size:13px;

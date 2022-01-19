@@ -6,9 +6,9 @@
     <meta name="author" content="Andres Genovez">
     <link rel="stylesheet" href="estilo.css">
   </head>
-  <body style="         background-color: black;">
+
     <p> <img src="logo.png" alt="Logo" title="Logo" style="width: 155px; height: 155px;">&nbsp;</p>
-       <ul class=menu id="lista1">
+     <ul class=menu id="lista1">
       <li ><span style="color: white;"><a
 
             href="index.html">Inicio</a></span></li>
@@ -28,6 +28,9 @@
       <li ><span style="color: white;"><a
 
             href="contacto.html">Contacto</a></span></li>
+      <li ><span style="color: white;"><a
+
+            href="recursos.html">Recursos</a></span></li>
     </ul>
     <hr style="color: white; margin-top: 2px;"> <img class="qsomos" src="qsomos.jpg" alt="lock"
 
@@ -36,12 +39,11 @@
     <table border="1">
       <tbody>
         <tr>
-          <td style="text-align:right">$100</td>
-          <td><span style="color: white;">Somos un emprendimiento Ecuatoriano
+          <td><span>Somos un emprendimiento Ecuatoriano
               con sede en Cuenca, <br>
               nos dedicamos a la infraestructura y seguridad</span></td>
-          <td style="text-align:right">$100</td>
-          <td><span style="color: white;">Tenemos una trayectoria de cinco años
+          
+          <td><span>Tenemos una trayectoria de cinco años
               y experiencia <br>
               de más de 10 años en proyectos de infraestructura de redes</span></td>
         </tr>
@@ -49,7 +51,7 @@
     </table>
     <span style="color: white;"> <span style="color: white;"> <br>
         <h2>Equipos de Redes con que trabajamos</h2>
-        <ol>
+        <ol id="lista2">
           <li>Mikrotik</li>
           <li>Cisco</li>
           <li>Juniper</li>
@@ -60,7 +62,7 @@
     <p><br>
     </p>
     <hr style="color: white;">
-    <p><span style="color: white;">Copyright Noctelecom&nbsp; 2021</span></p>
+    <p><span>Copyright Noctelecom&nbsp; 2021</span></p>
     <br>
     <ul>
     </ul>

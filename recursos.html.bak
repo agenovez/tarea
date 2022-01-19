@@ -6,9 +6,9 @@
     <meta name="author" content="Andres Genovez">
     <link rel="stylesheet" href="estilo.css">
   </head>
-  <body style="        background-color: black;">
+  <body style="            background-color: black;">
     <p> <img src="logo.png" alt="Logo" title="Logo" style="width: 155px; height: 155px;">&nbsp;</p>
-     <ul class=menu id="lista1">
+    <ul class=menu id="lista1">
       <li ><span style="color: white;"><a
 
             href="index.html">Inicio</a></span></li>
@@ -32,29 +32,14 @@
 
             href="recursos.html">Recursos</a></span></li>
     </ul>
-    <hr style="color: white; margin-top: 2px;"> <img src="vision.jpg" alt="lock"
+    <hr style="color: white; margin-top: 2px;">
+    <p> <img src="recursos.jpg" alt="lock" title="lock" style="width: 295px; height: 227px;">
+      <span style="color: white;"> </span> </p>
+    <span style="color: white;"><br>
+      <h1> Recursos Libres </h1>
+    </span><a href="https://latam.kaspersky.com/free-antivirus" target="_blank"
 
-      title="lock" style="width: 295px; height: 227px;"> <span style="color: white;">
-    </span> <br>
-    <table border="1">
-      <tbody>
-        <tr>
-          <td style="text-align:right">$100</td>
-          <td><span style="color: white;">Ser lideres en capacitación de
-              seguridad,<br>
-              para empresas, asi tambien como clientes<br>
-              finales<br>
-            </span></td>
-          <td style="text-align:right">$100</td>
-          <td><span style="color: white;">Ofrecer costos razonables de manera
-              que la seguridad sea inslusiva para todos en <br>
-              especial a personas con poco o nulo conocimiento de seguridad.<br>
-            </span></td>
-        </tr>
-      </tbody>
-    </table>
-    <span style="color: white;"> <br>
-    </span><span style="color: white;"> </span>
+      style="color: #99ff99;">Antivirus Kaspersky</a><br>
     <p><br>
     </p>
     <hr style="color: white;">

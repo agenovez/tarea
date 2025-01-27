@@ -1,56 +1,65 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>NOCTELECOM</title>
-    <meta name="author" content="Andres Genovez">
-    <link rel="stylesheet" href="estilo.css">
-  </head>
-    <p> <img src="logo.png" alt="Logo" title="Logo" style="width: 155px; height: 155px;">&nbsp;</p>
-    <ul class=menu id="lista1">
-      <li ><span style="color: white;"><a
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio Web Mejorado</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#sobre">Sobre Nosotros</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="inicio" class="hero">
+        <h1>Bienvenido a Mi Sitio Web</h1>
+        <p>Diseño moderno y optimizado con CSS</p>
+        <a href="#servicios" class="btn">Ver Servicios</a>
+    </section>
 
-            href="index.html">Inicio</a></span></li>
-      <span style="color: white;"> </span>
-      <li ><span style="color: white;"><a
+    <section id="sobre">
+        <h2>Sobre Nosotros</h2>
+        <p>Somos una empresa comprometida con la tecnología y el diseño web.</p>
+    </section>
 
-            href="qsomos.html">Quienes Somos?</a></span></li>
-      <span style="color: white;"> </span>
-      <li ><span style="color: white;"><a
+    <section id="servicios">
+        <h2>Nuestros Servicios</h2>
+        <div class="grid">
+            <div class="card">
+                <h3>Desarrollo Web</h3>
+                <p>Creación de sitios web responsivos y optimizados.</p>
+            </div>
+            <div class="card">
+                <h3>SEO y Marketing</h3>
+                <p>Mejora de posicionamiento y visibilidad en línea.</p>
+            </div>
+            <div class="card">
+                <h3>Diseño Gráfico</h3>
+                <p>Creación de identidad visual y branding.</p>
+            </div>
+        </div>
+    </section>
 
-            href="mision.html">Mision</a></span></li>
-      <span style="color: white;"> </span>
-      <li ><span style="color: white;"><a
-
-            href="vision.html">Vision</a></span></li>
-      <span style="color: white;"> </span>
-      <li ><span style="color: white;"><a
-
-            href="contacto.html">Contacto</a></span></li>
-      <li ><span style="color: white;"><a
-
-            href="recursos.html">Recursos</a></span></li>
-    </ul>
-    <hr style="color: white; margin-top: 2px;"> <img class="banner" src="banner.png" alt="banner"
-
-      title="banner">
-    <table>
-      <tbody>
-        <tr>
-          <td><br>
-          </td>
-          <td><br>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <br>
-    <p></p>
-    <hr style="color: white;">
-    <p><span style="color: white;">Copyright Noctelecom&nbsp; 2021</span></p>
-    <br>
-    <ul>
-    </ul>
-    <p></p>
-  </body>
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <form>
+            <input type="text" placeholder="Nombre" required>
+            <input type="email" placeholder="Correo" required>
+            <textarea placeholder="Mensaje" required></textarea>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Mi Sitio Web. Todos los derechos reservados.</p>
+    </footer>
+</body>
 </html>
